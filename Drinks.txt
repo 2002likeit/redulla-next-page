@@ -1,0 +1,133 @@
+<html>
+
+<head>
+	<title> Coffee Station </title>
+	</head>
+
+<body bgcolor=#palette>
+<p>
+<table border=1 cellpadding="15" bgcolor=#palette width=80%>
+<th><a href="Shoppe Sanctuary.html">BACK</a></th>
+
+<br>
+
+
+
+</br>
+
+		<p><center> <font color=#ffffff  size=6> Your daily dose of happiness, brewed with love. </h1></font></center>
+		<h1><center> <font color=#ffffff> Your daily cup of inspiration </h1></font></center>
+		<p><center> <font color=#ffffff size=5> <i> -Coffee that's worth savoring.- </i> </p></font></center> 
+<p><left><i><b> <font color=#ffffff size=6> Here's a brief overview of some of our most popular products:</i> </b></p> 
+<hr width=1200 height=800 color=#990030>
+<left><img src="coffee.1.jpg" width="180" height="200"></left> 
+<left><img src="coffee.2.jpg" width="180" height="200"></left>
+<left><img src="coffee.3.jpg" width="180" height="200"></left>
+<left><img src="coffee.4.jpg" width="180" height="200"></left>
+<left><img src="coffee.5.jpg" width="180" height="200"></left>
+<left><img src="coffee.6.jpg" width="180" height="200"></left>
+<right><img src="coffee.7.jpg" width="180" height="200"></right>
+<left><img src="coffee.8.jpg" width="180" height="200"></left>
+<left><img src="coffee.9.jpg" width="180" height="200"></left>
+<left><img src="coffee.14.jpg" width="180" height="200"></left>
+<left><img src="coffee.11.jpg" width="180" height="200"></left>
+<right><img src="coffee.12.jpg" width="180" height="200"></right>
+
+
+</br>
+<hr width=1200 height=800 color=#990030>
+
+<br>
+	<p><center><i><b> <font color=#ffffff size=6>  Our skilled baristas craft each cup with love and expertise, ensuring a consistently rich and flavorful coffee experience.</i> </b></p> 
+<i><font color=#ffffff size=5>Hello everyone! Welcome to Blissful Bloom Coffee Shop! We're a locally owned and operated coffee shop that's been serving the community for over 10 years. We're passionate about coffee, and we're committed to providing our customers with the best possible experience.
+
+We have a wide variety of coffee drinks to choose from, including espresso drinks, drip coffee, and cold brew. We also offer a variety of pastries and snacks, as well as free Wi-Fi and plenty of seating. .</i></center></p>
+
+
+
+
+
+<br>
+<right><hr width=500 height=500 color=#ffffff></right>
+<br>
+<h1><center> <font color=#ffffff>  ESPRESSO DRINKS </h1></font></center>
+<p><center><i><font color=#ffffff size=5>We offer a full range of espresso drinks, including lattes, cappuccinos, macchiatos, and Americanos. We use freshly roasted beans from local roasters, and our baristas are experts in crafting the perfect espresso drink.</center></p></i>
+
+<br>
+<right><hr width=500 height=500 color=#ffffff></right>
+<br>
+<h1><center> <font color=#ffffff>  DRIP COFFEE </h1></font></center>
+<p><center><i><font color=#ffffff size=5>Our drip coffee is made with fresh, high-quality beans and brewed to perfection. We offer a variety of roasts to choose from, so you can find the perfect cup of coffee for your taste.</center></p></i>
+
+<br>
+<right><hr width=500 height=500 color=#ffffff></right>
+<br>
+<h1><center> <font color=#ffffff>COLD BREW </h1></font></center>
+<p><center><i><font color=#ffffff size=5>Our cold brew is made by steeping coffee beans in cold water for 12-24 hours. This results in a smooth, flavorful coffee that's perfect for a hot day.</center></p></i>
+<html>
+
+<head>
+	<title> Coffee Station </title>
+	</head>
+
+<body bgcolor=#palette>
+<p>
+<table border=1 cellpadding="15" bgcolor=#palette width=80%>
+<th><a href="Shoppe Sanctuary.html">BACK</a></th>
+
+<br>
+
+
+
+</br>
+
+		<p><center> <font color=#ffffff  size=6> Your daily dose of happiness, brewed with love. </h1></font></center>
+		<h1><center> <font color=#ffffff> Your daily cup of inspiration </h1></font></center>
+		<p><center> <font color=#ffffff size=5> <i> -Coffee that's worth savoring.- </i> </p></font></center> 
+<p><left><i><b> <font color=#ffffff size=6> Here's a brief overview of some of our most popular products:</i> </b></p> 
+<hr width=1200 height=800 color=#990030>
+<left><img src="coffee.1.jpg" width="180" height="200"></left> 
+<left><img src="coffee.2.jpg" width="180" height="200"></left>
+<left><img src="coffee.3.jpg" width="180" height="200"></left>
+<left><img src="coffee.4.jpg" width="180" height="200"></left>
+<left><img src="coffee.5.jpg" width="180" height="200"></left>
+<left><img src="coffee.6.jpg" width="180" height="200"></left>
+<right><img src="coffee.7.jpg" width="180" height="200"></right>
+<left><img src="coffee.8.jpg" width="180" height="200"></left>
+<left><img src="coffee.9.jpg" width="180" height="200"></left>
+<left><img src="coffee.14.jpg" width="180" height="200"></left>
+<left><img src="coffee.11.jpg" width="180" height="200"></left>
+<right><img src="coffee.12.jpg" width="180" height="200"></right>
+
+
+</br>
+<hr width=1200 height=800 color=#990030>
+
+<br>
+	<p><center><i><b> <font color=#ffffff size=6>  Our skilled baristas craft each cup with love and expertise, ensuring a consistently rich and flavorful coffee experience.</i> </b></p> 
+<i><font color=#ffffff size=5>Hello everyone! Welcome to Blissful Bloom Coffee Shop! We're a locally owned and operated coffee shop that's been serving the community for over 10 years. We're passionate about coffee, and we're committed to providing our customers with the best possible experience.
+
+We have a wide variety of coffee drinks to choose from, including espresso drinks, drip coffee, and cold brew. We also offer a variety of pastries and snacks, as well as free Wi-Fi and plenty of seating. .</i></center></p>
+
+
+
+
+
+<br>
+<right><hr width=500 height=500 color=#ffffff></right>
+<br>
+<h1><center> <font color=#ffffff>  ESPRESSO DRINKS </h1></font></center>
+<p><center><i><font color=#ffffff size=5>We offer a full range of espresso drinks, including lattes, cappuccinos, macchiatos, and Americanos. We use freshly roasted beans from local roasters, and our baristas are experts in crafting the perfect espresso drink.</center></p></i>
+
+<br>
+<right><hr width=500 height=500 color=#ffffff></right>
+<br>
+<h1><center> <font color=#ffffff>  DRIP COFFEE </h1></font></center>
+<p><center><i><font color=#ffffff size=5>Our drip coffee is made with fresh, high-quality beans and brewed to perfection. We offer a variety of roasts to choose from, so you can find the perfect cup of coffee for your taste.</center></p></i>
+
+<br>
+<right><hr width=500 height=500 color=#ffffff></right>
+<br>
+<h1><center> <font color=#ffffff>COLD BREW </h1></font></center>
+<p><center><i><font color=#ffffff size=5>Our cold brew is made by steeping coffee beans in cold water for 12-24 hours. This results in a smooth, flavorful coffee that's perfect for a hot day.</center></p></i>
+ <a href="file:///D:/IT%20PROJECT/Reviews.html">review</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

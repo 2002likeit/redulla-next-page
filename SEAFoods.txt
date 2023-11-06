@@ -1,0 +1,66 @@
+<html>
+
+<head>
+
+	<title> Sea Foods Best Seller </title>
+	</head>
+<p>
+<a href="Shoppe Sanctuary.html"> <img src="back.webp" width="5%" height="8%">
+</p></a> 
+<body bgcolor=#palette>
+	<br>
+               </br>
+	<h1><center> <font color=#fffffff size=7> Sea Foods Best Seller  </h1></font></center>
+<br>
+<hr width=1300 size=7 color=#5c4023><br>
+
+<p><b><left><font color=#ffffff size=6> __________About Our Sea Foods:__________</b></left>
+<center><img src="SeaFood1.jpg" style="float:right" width="480" height="280"></center>
+<p><i><center><font color=#ffffff size=5 face="Lucida Bright"> At Blissful Boom Restaurant, we are passionate about serving the freshest and most delicious seafood in town. We source our seafood from local fishermen and suppliers who are committed to sustainable fishing practices. <br>
+This means that you can be sure that the seafood you eat at our restaurant is not only fresh and delicious, but also good for the environment.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+We offer a wide variety of seafood dishes to choose from, including:</i></p></font></center>
+<br>
+<br> 
+
+<h3><center> <font color=#ffffff size=7>FISH - SHELL FISH - AND OTHER SEA FOOD DISHES :</h3></font></center><br>
+<br>
+<br> 
+<hr width=1300 size=7 color=#5c4023><br>
+
+<p><b><font color=#fffff size=8 face="Lucida Bright"> FRESH FISH:</p></font></b><p><i><font color=#ffffff size=6 face="Courier New"> We offer a variety of fish dishes, including grilled, pan-fried, and baked fish. Our fish is always fresh and cooked to perfection.</p></i></font>
+
+<center><fish2.jpg="bag1.png"  width="250" height="220">
+<img src="bake.jpg"  width="250" height="220">
+<img src="fish2.jpg"  width="250" height="220">
+
+<img src="fish3.jpg"  width="250" height="220"></center>
+
+<p><b><font color=#ffffff size=8 face="Lucida Bright">Shellfish: </p></font></b><p><i><font color=#ffffff size=6 face="Courier New"> We also offer a variety of shellfish dishes, including shrimp, crab, lobster, and mussels. Our shellfish is always cooked to perfection and is sure to please even the most discerning palate.</p></i></font>
+
+<center><img src="shrimp.jpg"  width="220" height="250">
+<img src="crab.jpg"  width="220" height="250">
+<img src="pic3.jpg"  width="220" height="250">
+<img src="lobster.jpg"  width="220" height="250"></center> 
+
+<p><b><font color=#ffffff size=67face="Lucida Bright">Other seafood dishes: </p></font></b><p><i><font color=#ffffff size=6 face="Courier New"> We also offer a variety of other seafood dishes, such as calamari, squid, and octopus. Our seafood dishes are all made with fresh, high-quality ingredients and are sure to please everyone at the table. </p></i></font>
+
+<center><img src="calamari.jpg"  width="220" height="200">
+<img src="squid.jpg"  width="220" height="200">
+<img src="octopus.jpg"  width="220" height="200"></center>
+
+<br>
+<hr width=1300 size=7 color=#5c4023><br>
+<p><center><i>Come and experience the difference at    BLISSFUL BLOOM RESTAURANT today!
+We invite you to come and experience the difference at blissful Bloom Restaurant today. We are confident that you will love our fresh seafood, delicious dishes, and casual atmosphere. Make a reservation today and see for yourself why blissful Bloom Restaurant  is the best place to enjoy fresh seafood in town!<br>
+</i></p></center>
+    <a href="file:///D:/IT%20PROJECT/Drinks.html.">Drinks</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</body>
+</html>

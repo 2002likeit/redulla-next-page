@@ -1,0 +1,209 @@
+<html>
+<body bgcolor=“palette">
+<br>
+<table>
+  <thead>
+    <tr>
+      <th>Question</th>
+      <th>Rating</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>How would you rate your overall dining experience?</td>
+      <td>
+        <select name="overall_rating">
+          <option value="1">1</option>
+
+          
+<option
+ 
+value="2">2</option>
+
+          
+<option
+ 
+value="3">3</option>
+
+          
+<option
+ 
+value="4">4</option>
+
+          
+<option
+ 
+value="5">5</option>
+
+        
+</select>
+
+      
+</td>
+
+    
+</tr>
+
+    
+<tr>
+
+      
+<td>How would you rate the food quality?</td>
+      <td>
+        <select name="food_quality_rating">
+          <option value="1">1</option>
+
+          
+<option
+ 
+value="2">2</option>
+
+          
+<option
+ 
+value="3">3</option>
+
+          
+<option
+ 
+value="4">4</option>
+
+          
+<option
+ 
+value="5">5</option>
+
+        
+</select>
+
+      
+</td>
+
+    
+</tr>
+
+    
+<tr>
+
+      
+<td>How would you rate the service?</td>
+      <td>
+        <select name="service_rating">
+          <option value="1">1</option>
+
+          
+<option
+ 
+value="2">2</option>
+
+          
+<option
+ 
+value="3">3</option>
+
+          
+<option
+ 
+value="4">4</option>
+
+          
+<option
+ 
+value="5">5</option>
+
+        
+</select>
+
+      
+</td>
+
+    
+</tr>
+
+    
+<tr>
+
+      
+<td>How would you rate the cleanliness of the restaurant?</td>
+      <td>
+        <select name="cleanliness_rating">
+          <option value="1">1</option>
+
+          
+<option
+ 
+value="2">2</option>
+
+          
+<option
+ 
+value="3">3</option>
+
+          
+<option
+ 
+value="4">4</option>
+
+          
+<option
+ 
+value="5">5</option>
+
+        
+</select>
+
+      
+</td>
+
+    
+</tr>
+
+    
+<tr>
+
+      
+<td>How would you rate the value for money?</td>
+      <td>
+        <select name="value_for_money_rating">
+          <option value="1">1</option>
+
+          
+<option
+ 
+value="2">2</option>
+
+          
+<option
+ 
+value="3">3</option>
+
+          
+<option
+ 
+value="4">4</option>
+
+          
+<option
+ 
+value="5">5</option>
+
+        
+</select>
+
+      
+</td>
+
+    
+</tr>
+ 
+<tr>
+<td>Do you have any additional feedback?</td>
+      <td>
+        <textarea name="additional_feedback"></textarea>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<input type="submit" value="Submit Review">
+<a href="file:///D:/IT%20PROJECT/main%20page.html">BACK TO MAIN PAGE</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
